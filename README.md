@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OrangeMGE-ITP
 - 🌱 I’m currently learning a .ts and NestJS
 - 👀 I’m interested in front-end development
-- 📫 How to reach me: vitalij.volkov@itp-it.com
+- 📫 How to reach me: orangeitracers@yandex.ru
 
 <!--
 **OrangeMGE-ITP/OrangeMGE-ITP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
