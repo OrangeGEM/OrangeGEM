@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning a .ts and NestJS
 - 👀 I’m interested in web-development
 - 📫 How to reach me: vitalij.volkov@itp-it.com or orangeitracers@yandex.ru
-- 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeMGE-ITP)](https://github.com/anuraghazra/github-readme-stats)
 
 
