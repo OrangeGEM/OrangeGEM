@@ -3,6 +3,7 @@
 - 👀 I’m interested in web-development
 - 📫 How to reach me: vitalij.volkov@itp-it.com or orangeitracers@yandex.ru
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **OrangeMGE-ITP/OrangeMGE-ITP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
