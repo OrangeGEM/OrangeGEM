@@ -6,7 +6,7 @@
 ### <div align="center">I'm Vitalii, a full-time full-stack MERN developer 👨‍💻 working in ITP company since 2021 </div>  
   
 
-- 🔭 I’m currently working on SmartQ project _Client_ and _Server_  
+- 🔭 I’m currently working on SmartQ project [_Client_](https://github.com/OrangeMGE-ITP/client-ts) and [_Server_](https://github.com/OrangeMGE-ITP/server-nest)  
   
 
 - 🌱 I’m currently learning a Typescript and NestJS  
