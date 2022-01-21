@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeMGE-ITP)](https://github.com/anuraghazra/github-readme-stats)
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMGE-ITP&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMGE-ITP&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
