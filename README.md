@@ -4,7 +4,7 @@
 - 📫 How to reach me: vitalij.volkov@itp-it.com or orangeitracers@yandex.ru
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeMGE-ITP)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
