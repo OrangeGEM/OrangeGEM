@@ -18,9 +18,6 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 - 📫 How to reach me: vitalij.volkov@itp-it.com or orangeitracers@yandex.ru  
   
 
