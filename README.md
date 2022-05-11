@@ -86,11 +86,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OrangeMGE-ITP&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OrangeGEM&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMGE-ITP&hide_border=true&layout=compact&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeGEM&hide_border=true&layout=compact&theme=radical" align="center" /></div>  
 
 <br/>  
 
@@ -106,7 +106,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=OrangeMGE-ITP&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=OrangeGEM&&style=flat-square" align="center" />
 </div>  
   
 
