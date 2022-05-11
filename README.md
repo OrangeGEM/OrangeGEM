@@ -3,11 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vitalii, a full-time full-stack MERN developer 👨‍💻 working in ITP company since 2021 </div>  
-  
-
-- 🔭 I’m currently working on SmartQ project [_Client_](https://github.com/OrangeMGE-ITP/client-ts) and [_Server_](https://github.com/OrangeMGE-ITP/server-nest)  
-  
+### <div align="center">I'm Vitalii, a full-time full-stack MERN developer 👨‍💻 </div>  
 
 - 🌱 I’m currently learning a Typescript and NestJS  
   
@@ -18,7 +14,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- 📫 How to reach me: vitalij.volkov@itp-it.com or orangeitracers@yandex.ru  
+- 📫 How to reach me: orangege303@gmail.com or orangeitracers@yandex.ru  
   
 
 <br/>  
