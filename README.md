@@ -4,17 +4,6 @@
   
 
 ### <div align="center">I'm Vitalii, a full-time full-stack MERN developer 👨‍💻 </div>  
-
-- 🌱 I’m currently learning a Typescript and NestJS  
-  
-
-- 👀 I’m interested in web-development  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- 📫 How to reach me: orangege303@gmail.com or orangeitracers@yandex.ru  
   
 
 <br/>  
